@@ -1,2 +1,3 @@
 calalog listing templates
-![security+](security+.html)
+
+[security+](security+.html)
