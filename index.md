@@ -1,3 +1,3 @@
 calalog listing templates
 
-[security+](security+.html)
+[security+](CompTIA_Security.html)
