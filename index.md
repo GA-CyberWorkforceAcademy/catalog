@@ -1,1 +1,1 @@
-[Security](/Security.PNG)
+[Security](/Security.png)
