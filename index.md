@@ -1,2 +1,3 @@
 [Security](/Security.png)
-[headers](/catalogHeader.jpg)
+
+[headers](/catalogHeader.png)
